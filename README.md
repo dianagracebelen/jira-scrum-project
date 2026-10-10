@@ -21,12 +21,12 @@ User stories and acceptance criteria were documented under the corresponding epi
 Testing focused on user-visible checkout and order placement behavior on Shopee. Backend processes, internal systems, and unrelated website features were excluded.
 
 ## Test Artifacts
-- Test Plan
-- Test Scenarios
-- Test Cases
-- Test Execution Results and Screenshot Evidence
-- QA Test Summary Report
-- Jira Project Screenshots
+- [Test Plan](01_Test_Planning/Jira_Test_Planning.docx)
+- [Test Scenarios](02_Test_Scenario_Cases_Execution/)
+- [Test Cases](02_Test_Scenario_Cases_Execution/)
+- [Test Execution Results and Screenshot Evidence](Testing%20Evidence/)
+- [QA Test Summary Report](03_Summary_Report/)
+- [Jira Project Screenshots](Jira%20Scrum%20Project%20Screenshots/)
 
 ## Test Execution Summary
 Ten test cases were executed, and all ten passed. No confirmed defects were identified during testing. The out-of-stock scenario was not tested because a suitable out-of-stock product could not be found.
